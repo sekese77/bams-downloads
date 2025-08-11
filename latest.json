@@ -1,0 +1,6 @@
+{
+    "version": "1.1.0",
+    "url_linux": "https://github.com/sekese77/bams-downloads/releases/download/v1.1.0/BAMS-1.1.0.AppImage",
+    "url_windows": "https://github.com/sekese77/bams-downloads/releases/download/v1.1.0/BAMS-1.1.0.exe",
+    "changelog": "Improved device support and bug fixes."
+}
